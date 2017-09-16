@@ -63,3 +63,9 @@ fastlane/screenshots
 
 # Quick
 Quick.framework.zip
+
+## Fastlane
+fastlane/screenshots/
+fastlane/*.xml
+fastlane/*.md
+fastlane/*.html
